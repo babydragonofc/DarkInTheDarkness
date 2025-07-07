@@ -107,7 +107,7 @@ const fases = [
 var faseBackUp = []
 var fase = []
 
-var faseAtual = 3
+var faseAtual = 0
 fase = fases[faseAtual]
 
 LoadMap()
