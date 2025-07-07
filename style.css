@@ -37,6 +37,7 @@ body {
     width: 50px;
     background: no-repeat;
     background-size: cover;
+    image-rendering: pixelated;
 
 }
 
